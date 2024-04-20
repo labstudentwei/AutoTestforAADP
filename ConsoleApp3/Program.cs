@@ -29,10 +29,9 @@ namespace ConsoleApp3
             string phoneNumber = "1234567890";
             string wrongRepassword = "123457";
 
-
-            string filePath = "C:\\Users\\shangwei\\source\\repos\\Testforadd\\bin\\Debug\\Management System.exe";
-
             // file path, use\\ instead of \
+            string filePath = "C:\\…………\\Management System.exe";
+
             LaunchApplication(filePath);
 
             //Username already exists
